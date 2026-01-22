@@ -16,6 +16,7 @@ Shopping behavior (Discounts, Previous Purchases, Review Ratings, Shipping Type)
 Missing Data: Review ratings (handled during cleaning)
 
 🛠 Tools & Technologies
+
 Python: pandas, numpy, matplotlib, seaborn
 SQL: PostgreSQL 
 BI Tool: Power BI
