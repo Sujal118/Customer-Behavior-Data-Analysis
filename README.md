@@ -7,47 +7,51 @@ This project analyzes customer shopping behavior using transactional data to unc
 
 📂 Dataset
 
-Records: 3,900 customer purchases
-Columns: 18
+Records: 3,900 customer purchase,
+Columns: 18,
 Key Features:
-Customer demographics (Age, Gender, Location, Subscription Status)
-Purchase details (Item, Category, Amount, Season, Size, Color)
-Shopping behavior (Discounts, Previous Purchases, Review Ratings, Shipping Type)
+Customer demographics (Age, Gender, Location, Subscription Status),
+Purchase details (Item, Category, Amount, Season, Size, Color),
+Shopping behavior (Discounts, Previous Purchases, Review Ratings, Shipping Type),
 Missing Data: Review ratings (handled during cleaning)
 
 🛠 Tools & Technologies
 
-Python: pandas, numpy, matplotlib, seaborn
-SQL: PostgreSQL 
-BI Tool: Power BI
-Reporting: PowerPoint
-Database Connectivity: psycopg2 / SQLAlchemy
+1.Python: pandas, numpy, matplotlib, seaborn
+
+2.SQL: PostgreSQL 
+
+3.BI Tool: Power BI
+
+4.Reporting: PowerPoint
+
+5.Database Connectivity: psycopg2 / SQLAlchemy
 
 🔍 Project Steps
 
-Data Loading
+Data Loading:-
 Imported dataset into Python using pandas.
 
-Exploratory Data Analysis (EDA)
-Summary statistics and structure analysis
-Distribution and trend visualizations
-Initial business questions exploration
+Exploratory Data Analysis (EDA):-
+Summary statistics and structure analysis,
+Distribution and trend visualizations,
+Initial business questions exploration.
 
-Data Cleaning & Feature Engineering
-Handled missing values in review ratings
-Standardized column names
-Created age groups and customer segments
-Removed redundant fields
+Data Cleaning & Feature Engineering:-
+Handled missing values in review ratings,
+Standardized column names,
+Created age groups and customer segments,
+Removed redundant fields.
 
-SQL Analysis
-Revenue analysis by gender and age group
-Subscriber vs non-subscriber behavior
-High-spending discount users
-Product performance and customer loyalty analysis
-Dashboard Creation
+SQL Analysis:- 
+Revenue analysis by gender and age group,
+Subscriber vs non-subscriber behavior,
+High-spending discount users,
+Product performance and customer loyalty analysis,
+Dashboard Creation,
 Built an interactive Power BI dashboard with KPIs, filters, and visual insights.
 
-Reporting
+Reporting:- 
 Created a structured PowerPoint summarizing insights and business recommendations.
 
 📊 Dashboard Highlights
